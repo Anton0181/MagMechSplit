@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TMR_SENSORS")(type "KiCad")(uri "${KIPRJMOD}/TMR_SENSORS.pretty")(options "")(descr ""))
+)

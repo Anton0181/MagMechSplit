@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MyKeyboard-altium-import")(type "KiCad")(uri "${KIPRJMOD}/MyKeyboard-altium-import.kicad_sym")(options "")(descr ""))
+)
